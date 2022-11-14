@@ -1,4 +1,8 @@
-# EE447
+# EE447 Introduction to Microprocessors
+
+This repository contains codes for [EE447 Introduction to Microprocessors](https://catalog.metu.edu.tr/course.php?course_code=5670447) course at Middle East Technical University.
+
+
 
 ## Labs
 - [Lab 0](https://github.com/dkarakay/EE447/tree/main/Labs/Lab%200)
